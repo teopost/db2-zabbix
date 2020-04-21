@@ -1,7 +1,6 @@
 # DB2 Zabbix Monitoring Scripts
 
 This project contains DB2 Zabbix monitoring scripts used as user parameters by Zabbix agent.
-It is a modified fork by https://github.com/digiapulssi/zabbix-monitoring-scripts
 
 ## Installation
 
@@ -64,3 +63,7 @@ Simple statistics can be retrieved with two parameters, maximum snapshot age in 
 Retrieving memory statistics additionally requires node number:
 
 `db2stat.package_cache_heap_size[60,SAMPLE,0]`
+
+## Thanks to
+
+db2-zabbix is a modified fork of https://github.com/digiapulssi/zabbix-monitoring-scripts
