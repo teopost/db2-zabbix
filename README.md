@@ -51,6 +51,23 @@ To test taking the snapshot with zabbix user in AIX as root:
 Zabbix template for all items supported in configuration is [here](../templates/db2stat.xml).
 To configure it, at least macro value for DATABASE_NAME must be updated.
 
+* Step 1: Template import 
+  * Menu `Configuration`
+  * Submenu `Templates`
+  * Click on button `Import` and select templates/db2stat.xml
+* Step 2: Assign template to an hosts
+  * Menu Configurazion
+  * Submenu Hosts
+  * Select an host and click `Template`
+  * Add `Template DB2` to linked template and confirm
+  * Click on `Macro`
+  
+  * Add `Template DB2` to linked template
+* Step: 3: Configure
+
+
+
+
 ## Manual Item Configuration
 
 Provided user parameter configuration contains several parameters. Consult the
