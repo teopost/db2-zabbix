@@ -33,7 +33,7 @@ operating system group for this is set via DB2 configuration parameters.
 
 To enable snapshots:
 
-1. Create sysmon group in operating system and add zabbix agent user to it (Zabbix agent must be installed so that zabbix user is present).
+1. Create db2mon group in operating system and add zabbix agent user to it (Zabbix agent must be installed so that zabbix user is present).
 
 ```
 # Linux systems
@@ -48,12 +48,12 @@ chgrpmem -m + zabbix db2mon
 2. Configure db2mon group have SYSMON permission in database execute following *as db2 user*:
 
 ```
-# Configure sysmon group
+# Configure db2mon group
 
-# For db2stat metrics
+# For db2stat zabbix metrics
 db2 update dbm cfg using sysmon_group db2mon
 
-# For lock waits metrics access
+# For lock waits zabbiz metrics
 db2 "grant select on table SYSIBMADM.MON_LOCKWAITS to db2mon"
 
 # Restart database
