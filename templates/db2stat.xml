@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>3.2</version>
-    <date>2017-09-28T11:27:43Z</date>
+    <date>2020-04-22T18:00:00Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -9,8 +9,8 @@
     </groups>
     <templates>
         <template>
-            <template>Template DB2 Stats</template>
-            <name>Template DB2 Stats</name>
+            <template>Template DB2 Statistics</template>
+            <name>Template DB2 Statistics</name>
             <description/>
             <groups>
                 <group>
@@ -19,7 +19,7 @@
             </groups>
             <applications>
                 <application>
-                    <name>DB2</name>
+                    <name>DB2 Statistics</name>
                 </application>
             </applications>
             <items>
@@ -60,7 +60,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -103,7 +103,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -146,7 +146,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -189,7 +189,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -232,7 +232,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -275,7 +275,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -318,7 +318,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -361,7 +361,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -404,7 +404,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -447,7 +447,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -490,7 +490,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -533,7 +533,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -576,7 +576,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -619,7 +619,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -662,7 +662,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -705,7 +705,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -748,7 +748,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -791,7 +791,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -834,7 +834,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -877,7 +877,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -920,7 +920,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -963,7 +963,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1006,7 +1006,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1049,7 +1049,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1092,7 +1092,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1135,7 +1135,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1178,7 +1178,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1221,7 +1221,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1264,7 +1264,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1307,7 +1307,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1350,7 +1350,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1393,7 +1393,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1436,7 +1436,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1479,7 +1479,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1522,7 +1522,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1565,7 +1565,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1608,7 +1608,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1651,7 +1651,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1694,7 +1694,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1737,7 +1737,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1780,7 +1780,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1823,7 +1823,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1866,7 +1866,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1909,7 +1909,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1952,7 +1952,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1995,7 +1995,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2038,7 +2038,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2081,7 +2081,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2124,7 +2124,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2167,7 +2167,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2210,7 +2210,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2253,7 +2253,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2296,7 +2296,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2339,7 +2339,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2382,7 +2382,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2425,7 +2425,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2468,7 +2468,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2511,7 +2511,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2554,7 +2554,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2597,7 +2597,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2640,7 +2640,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2683,7 +2683,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2726,7 +2726,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2769,7 +2769,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2812,7 +2812,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2855,7 +2855,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2898,7 +2898,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2941,7 +2941,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -2984,7 +2984,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3027,7 +3027,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3070,7 +3070,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3113,7 +3113,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3156,7 +3156,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3199,7 +3199,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3242,7 +3242,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3285,7 +3285,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3328,7 +3328,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3371,7 +3371,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3414,7 +3414,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3457,7 +3457,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3500,7 +3500,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3543,7 +3543,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3586,7 +3586,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3629,7 +3629,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3672,7 +3672,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3715,7 +3715,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3758,7 +3758,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3801,7 +3801,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3844,7 +3844,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3887,7 +3887,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3930,7 +3930,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -3973,7 +3973,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4016,7 +4016,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4059,7 +4059,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4102,7 +4102,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4145,7 +4145,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4188,7 +4188,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4231,7 +4231,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4274,7 +4274,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4317,7 +4317,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4360,7 +4360,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4403,7 +4403,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4446,7 +4446,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4489,7 +4489,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4532,7 +4532,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4575,7 +4575,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4618,7 +4618,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4661,7 +4661,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4704,7 +4704,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4747,7 +4747,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4790,7 +4790,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4833,7 +4833,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4876,7 +4876,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4919,7 +4919,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -4962,7 +4962,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5005,7 +5005,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5048,7 +5048,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5091,7 +5091,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5134,7 +5134,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5177,7 +5177,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5220,7 +5220,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5263,7 +5263,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5306,7 +5306,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5349,7 +5349,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5392,7 +5392,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5435,7 +5435,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5478,7 +5478,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5521,7 +5521,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5564,7 +5564,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5607,7 +5607,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5650,7 +5650,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5693,7 +5693,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5736,7 +5736,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5779,7 +5779,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5822,7 +5822,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5865,7 +5865,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5908,7 +5908,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5951,7 +5951,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -5994,7 +5994,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6037,7 +6037,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6080,7 +6080,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6123,7 +6123,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6166,7 +6166,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6209,7 +6209,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6252,7 +6252,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6295,7 +6295,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6338,7 +6338,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6381,7 +6381,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6424,7 +6424,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6467,7 +6467,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6510,7 +6510,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6553,7 +6553,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6596,7 +6596,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6639,7 +6639,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6682,7 +6682,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6725,7 +6725,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6768,7 +6768,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6811,7 +6811,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6854,7 +6854,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6897,7 +6897,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6940,7 +6940,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -6983,7 +6983,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7026,7 +7026,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7069,7 +7069,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7112,7 +7112,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7155,7 +7155,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7198,7 +7198,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7241,7 +7241,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -7284,7 +7284,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>DB2</name>
+                            <name>DB2 Statistics</name>
                         </application>
                     </applications>
                     <valuemap/>
