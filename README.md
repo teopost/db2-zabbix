@@ -34,21 +34,46 @@ operating system group for this is set via DB2 configuration parameters.
 To enable snapshots:
 
 1. Create sysmon group in operating system and add zabbix agent user to it (Zabbix agent must be installed so that zabbix user is present).
-   - Linux systems: `groupadd sysmon && usermod -a -G sysmon zabbix`
-   - AIX systems: `mkgroup sysmon`
-                  `chgrpmem -m + zabbix sysmon`
-2. Configure sysmon group have SYSMON permission in database execute following *as db2 user*:
-   - Configure sysmon group: `db2 update dbm cfg using sysmon_group sysmon`
-   - Restart databse: `db2stop && db2start`
+
+```
+# Linux systems
+groupadd db2mon
+usermod -a -G db2mon zabbix
+
+#AIX systems
+mkgroup db2mon
+chgrpmem -m + zabbix db2mon
+```
+
+2. Configure db2mon group have SYSMON permission in database execute following *as db2 user*:
+
+```
+# Configure sysmon group
+
+# For db2stat metrics
+db2 update dbm cfg using sysmon_group db2mon
+
+# For lock waits metrics access
+db2 "grant select on table SYSIBMADM.MON_LOCKWAITS to db2mon"
+
+# Restart database
+db2stop
+db2start
+```
 
 To test taking the snapshot with zabbix user in Linux as root:
-`su -s /bin/bash -c "export DB2INSTANCE=<instance-name>;/opt/ibm/db2/V10.5/bin/db2 get snapshot for database on <db>" zabbix`
-To test taking the snapshot with zabbix user in AIX as root:
-`su - zabbix -c "<path-to-db2dir>/bin/db2 get snapshot for database on <db>"`
+
+```
+# Linux systems
+su -s /bin/bash -c "export DB2INSTANCE=<instance-name>;/opt/ibm/db2/V10.5/bin/db2 get snapshot for database on <db>" zabbix
+
+# AIX systems
+su - zabbix -c "<path-to-db2dir>/bin/db2 get snapshot for database on <db>"`
+```
 
 ## Installing Items from Template
 
-Zabbix template for all items supported in configuration is [here](../templates/db2stat.xml).
+Zabbix template for all items supported in configuration is [here](templates/db2stat.xml).
 To configure it, at least macro value for DATABASE_NAME must be updated.
 
 1. Step 1: Template import 
